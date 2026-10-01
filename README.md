@@ -3,7 +3,7 @@ Estudante interessado em ciência de dados, machine learning e sistemas embarcad
 
 ## Linguagens e Stacks
 - **Linguagens:** Python, C++, C, SQL
-- **Ciência de dados:** Scikit-Learn, PyTorch, Pandas, Numpy, Seaborn
+- **Ciência de dados:** Scikit-Learn, PyTorch, Pandas, Numpy, Seaborn, MySQL, PostgreSQL
 - **Embarcados:** Arduino, Esp32, FreeRTOS, 8051, FPGAs
 - **Outros:** Git, Linux, Excel, Power BI, Docker,
 
